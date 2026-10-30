@@ -1,0 +1,11 @@
+# Database Configuration — TEMPLATE
+# Copy this file to application.properties and fill in your credentials.
+# Do NOT commit application.properties to Git.
+
+db.host=localhost
+db.port=3306
+db.name=smart_hostel_db
+db.username=root
+db.password=root
+db.useSSL=false
+db.serverTimezone=Asia/Kolkata

@@ -1,0 +1,31 @@
+# Smart Hostel Management System — Local Environment Files
+# ==========================================================
+
+# Compiled output
+target/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration with real credentials
+application.properties
+.env
+
+# Maven wrapper (if added later)
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
